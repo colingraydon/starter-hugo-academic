@@ -99,7 +99,7 @@ sections:
 
         - date_start: "2022-03-01"
           description: "Held Series 7 and 66 licenses after passing FINRA exams while working for Merrill."
-          organization: Coursera
+          organization: Finra
           organization_url: https://finra.org/
           title: "Series 7, Series 66 Licenses"
 
