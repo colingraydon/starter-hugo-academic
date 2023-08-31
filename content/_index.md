@@ -82,7 +82,6 @@ sections:
           organization: Kubernetes
           organization_url: https://www.linuxfoundation.org/
           title: Certified Kubernetes Administrator
-          url: ""
         - certificate_url: https://www.credly.com/users/colin-graydon/badges?sort=-state_updated_at&page=1
           date_end: ""
           date_start: "2023-01-01"
@@ -97,13 +96,13 @@ sections:
           organization: AWS
           organization_url: https://aws.amazon.com/
           title: "AWS Certified Solutions Architect"
-          url: ""
+
         - date_start: "2022-03-01"
           description: "Held Series 7 and 66 licenses after passing FINRA exams while working for Merrill."
-          organization: Finra
-          organization_url: https://aws.amazon.com/
+          organization: Coursera
+          organization_url: https://finra.org/
           title: "Series 7, Series 66 Licenses"
-          url: ""
+
     design:
       columns: "2"
 
