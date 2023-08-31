@@ -17,17 +17,17 @@ sections:
       title: Skills
 
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Full-Stack Developer
+          description: TypeScript, React, GraphQL
+          icon: code
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: Data Science
+          description: Python, R, Machine Learning
+          icon: database
+          icon_pack: fas
+        - name: Dev Ops
+          description: Kubernetes, Docker, AWS, Prometheus
+          icon: cloud-arrow-up
           icon_pack: fas
   - block: experience
     id: experience
@@ -42,27 +42,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Student
+          company: Georgetown University
+          company_url: ""
+          company_logo: Georgetown
+          location: Washington, DC
+          date_start: "2023-06-01"
+          date_end:
+          description: Studying computer science, mathematics, and economics.
         - title: Senior Investment Specialist
           company: Merrill Lynch
           company_url: ""
-          company_logo: org-gc
+          company_logo: Merrill
           location: New Jersey
           date_start: "2021-01-01"
           date_end: ""
-          description: |2-
-              Responsibilities include:
+          description: Licensed broker and advisor. Helped ultra affluent clients solve technical problems.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ""
-          company_logo: org-x
-          location: California
-          date_start: "2016-01-01"
-          date_end: "2020-12-31"
-          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: "2"
   - block: accomplishments
@@ -101,6 +97,12 @@ sections:
           organization: AWS
           organization_url: https://aws.amazon.com/
           title: "AWS Certified Solutions Architect"
+          url: ""
+        - date_start: "2022-03-01"
+          description: "Held Series 7 and 66 licenses after passing FINRA exams while working for Merrill."
+          organization: Finra
+          organization_url: https://aws.amazon.com/
+          title: "Series 7, Series 66 Licenses"
           url: ""
     design:
       columns: "2"
