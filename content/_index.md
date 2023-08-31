@@ -85,7 +85,7 @@ sections:
         - certificate_url: https://www.credly.com/users/colin-graydon/badges?sort=-state_updated_at&page=1
           date_end: ""
           date_start: "2023-01-01"
-          description: Indicates an understanding of monitoring cloud-native applications and infrastructure. Demonstrates the ability to design and implement data-scraping methods.
+          description: Indicates an ability to monitor cloud-native applications and infrastructure. Demonstrates aptitude in the design and implementation of data-scraping methods.
           organization: Prometheus
           organization_url: https://www.linuxfoundation.org/
           title: Certified Prometheus Associate
