@@ -45,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "/#contact"
+    link: "mailto:colingraydon@gmail.com"
   - icon: github
     icon_pack: fab
     link: https://github.com/colingraydon
@@ -66,5 +66,5 @@ email: ""
 highlight_name: true
 ---
 
-Technical problem solver. Hair care enthusiast. When I'm not tinkering with my latest project, you can find me at at a concert or trying a new recipe. My current projects include training deep learning models, writing a React Native mobile app, and working on payment technologies.
+Technical problem solver. Hair care enthusiast. When I'm not tinkering with my latest project, you can find me at a concert or trying a new recipe. My current projects include training deep learning models, writing a React Native mobile app, and working on payment technologies.
 {style="text-align: justify;"}
