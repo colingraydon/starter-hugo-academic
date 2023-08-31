@@ -66,5 +66,5 @@ email: ""
 highlight_name: true
 ---
 
-Technical problem solver. Hair care enthusiast. When I'm not tinkering with my latest project, you can find me at a concert or trying a new recipe. My current projects include training deep learning models, writing a React Native mobile app, and working on payment technologies.
+Technical problem solver. Full stack developer. Hair care enthusiast. When I'm not tinkering with my latest project, you can find me at a concert or trying a new recipe. I'm currently working on training deep learning models and writing a React Native mobile app. I'm passionate about the environment and helping animals, so if you're interested in collaborating on a related project, please let me know!
 {style="text-align: justify;"}

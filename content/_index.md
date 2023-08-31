@@ -30,6 +30,7 @@ sections:
           icon: camera-retro
           icon_pack: fas
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -41,11 +42,11 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Senior Investment Specialist
+          company: Merrill Lynch
           company_url: ""
           company_logo: org-gc
-          location: California
+          location: New Jersey
           date_start: "2021-01-01"
           date_end: ""
           description: |2-
@@ -65,6 +66,7 @@ sections:
     design:
       columns: "2"
   - block: accomplishments
+    id: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: "Accomplish&shy;ments"
@@ -80,8 +82,8 @@ sections:
         - certificate_url: https://www.credly.com/users/colin-graydon/badges?sort=-state_updated_at&page=1
           date_end: ""
           date_start: "2023-05-23"
-          description: "Showcases proficiency in the deployment, maintenance, and troubleshooting of Kubernetes clusters, including development, networking, logging, and secret management"
-          organization: Linux Foundation
+          description: "Showcases proficiency in the deployment, maintenance, and troubleshooting of Kubernetes clusters, including development, networking, logging, and secret management."
+          organization: Kubernetes
           organization_url: https://www.linuxfoundation.org/
           title: Certified Kubernetes Administrator
           url: ""
@@ -89,13 +91,13 @@ sections:
           date_end: ""
           date_start: "2023-01-01"
           description: Indicates an understanding of monitoring cloud-native applications and infrastructure. Demonstrates the ability to design and implement data-scraping methods.
-          organization: Linux Foundation
+          organization: Prometheus
           organization_url: https://www.linuxfoundation.org/
           title: Certified Prometheus Associate
 
         - certificate_url: https://www.credly.com/users/colin-graydon/badges?sort=-state_updated_at&page=1
           date_start: "2023-04-06"
-          description: "Demonstrates an ability to design and build well-architected distributed systems which are resilient, cost-effective, and scalable"
+          description: "Demonstrates an ability to design and build well-architected distributed systems which are resilient, cost-effective, and scalable."
           organization: AWS
           organization_url: https://aws.amazon.com/
           title: "AWS Certified Solutions Architect"
@@ -109,7 +111,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        I'd love to hear from you, especially if you're interested in collaborating on a project.
       # Contact (add or remove contact options as necessary)
       email: colingraydon@gmail.com
       phone: 609 947 8025
