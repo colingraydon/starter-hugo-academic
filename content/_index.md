@@ -56,7 +56,7 @@ sections:
           company_logo: Merrill
           location: New Jersey
           date_start: "2021-01-01"
-          date_end: ""
+          date_end: "2022-06-01"
           description: Licensed broker and advisor. Helped ultra affluent clients solve technical problems.
 
     design:
