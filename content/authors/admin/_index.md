@@ -34,9 +34,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.S. in Mathematics, Minor in Computer Science and Economics
+    - course: B.S. in Mathematics, B.A. in Computer Science and Minor in Economics
       institution: Georgetown University
-      year: Expected 2024
+      year: Expected December 2024
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -67,4 +67,5 @@ highlight_name: true
 ---
 
 Technical problem solver. Full stack developer. Hair care enthusiast. When I'm not tinkering with my latest project, you can find me at a concert or trying a new recipe. I'm currently teaching a course in full-stack development for my university's software engineering club. I'm passionate about the environment and helping animals, so if you're interested in collaborating on a related project, please let me know!
+
 {style="text-align: justify;"}
