@@ -44,15 +44,24 @@ sections:
       items:
         - title: Student
           company: Georgetown University
-          company_url: ""
+          company_url: "https://www.georgetown.edu/"
           company_logo: Georgetown
           location: Washington, DC
           date_start: "2023-06-01"
           date_end:
           description: Studying computer science, mathematics, and economics.
+        - title: Vice President
+          company: Hoya Developers
+          company_url: "https://www.hoyadevelopers.com/"
+          company_logo: Georgetown
+          location: Washington, DC
+          date_start: "2023-06-01"
+          date_end:
+          description: Vice President for Georgetown's premier software engineering club.
+
         - title: Senior Investment Specialist
           company: Merrill Lynch
-          company_url: ""
+          company_url: "https://www.ml.com/"
           company_logo: Merrill
           location: New Jersey
           date_start: "2021-01-01"
