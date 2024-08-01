@@ -42,6 +42,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Backend Engineer
+          company: Ascend
+          company_url: "https://ascendmeditations.app"
+          company_logo: Ascend
+          location: Washington, DC
+          date_start: "2024-03-01"
+          date_end:
+          description: Creating a scalable, secure, and reliable backend for a meditation app.
+
         - title: Student
           company: Georgetown University
           company_url: "https://www.georgetown.edu/"
